@@ -1,24 +1,63 @@
-# README
+# ✅ Task Manager
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Task management application developed with Ruby on Rails.
 
-Things you may want to cover:
+This project allows users to create, organize and manage tasks through a clean and responsive interface.
 
-* Ruby version
+---
 
-* System dependencies
+## 🌐 Live Website
 
-* Configuration
+https://livanpassos.com
 
-* Database creation
+---
 
-* Database initialization
+## 🛠️ Technologies Used
 
-* How to run the test suite
+- Ruby on Rails
+- HTML5
+- CSS3
+- JavaScript
+- PostgreSQL
+- Docker
+- Linux
 
-* Services (job queues, cache servers, search engines, etc.)
+---
 
-* Deployment instructions
+## ✨ Features
 
-* ...
+- Create tasks
+- Edit tasks
+- Delete tasks
+- Responsive design
+- Clean interface
+- Backend structure with Rails
+
+---
+
+## 📸 Preview
+
+![Task Manager Preview](taskmanager.png)
+
+---
+
+## 🚀 Running Locally
+
+```bash
+git clone https://github.com/livansena/Task-Manager.git
+
+cd Task-Manager
+
+bundle install
+
+rails server
+```
+
+---
+
+## 🧑‍💻 Author
+
+Livan Passos
+
+- LinkedIn: https://linkedin.com/in/livanpassos
+- Portfolio: https://livanpassos.com
